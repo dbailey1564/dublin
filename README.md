@@ -7,4 +7,4 @@ The rules are simple, but the strategy runs deep: keep what’s safe, chase what
 
 Set in a sleek, minimal world inspired by old pub dice games, Dublin blends quick, satisfying rolls with tactical scoring. Whether you bank early or ride your streak, the thrill comes from making the right call at the right time.
 
-Level up as you play, unlock hints, and learn advanced scoring moves — but remember, in Dublin, it’s not the roll you get, it’s the choice you make.
+Level up as you play, unlock hints, and learn advanced scoring moves — but remember, in Dublin, it’s not the roll you get, it’s the choices you make.
