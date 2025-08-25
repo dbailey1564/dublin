@@ -14,8 +14,7 @@
     "updates": { "fallbackToCacheTimeout": 0 },
     "assetBundlePatterns": ["**/*"],
     "ios": { "supportsTablet": true, "bundleIdentifier": "com.yourname.dublin" },
-    "android": { "package": "com.yourname.dublin", "permissions": [] },
-    "plugins": [],
-    "extra": { "eas": { "projectId": "00000000-0000-0000-0000-000000000000" } }
+    "android": { "package": "com.yournamedbailey1564.dublin", "permissions": [] },
+    "plugins": ["expo-dev-client"]    
   }
 }
