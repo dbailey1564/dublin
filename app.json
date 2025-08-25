@@ -11,10 +11,28 @@
       "resizeMode": "contain",
       "backgroundColor": "#0F172A"
     },
-    "updates": { "fallbackToCacheTimeout": 0 },
-    "assetBundlePatterns": ["**/*"],
-    "ios": { "supportsTablet": true, "bundleIdentifier": "com.yourname.dublin" },
-    "android": { "package": "com.yournamedbailey1564.dublin", "permissions": [] },
-    "plugins": ["expo-dev-client"]    
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.dublin"
+    },
+    "android": {
+      "package": "com.yournamedbailey1564.dublin",
+      "permissions": []
+    },
+    "plugins": [
+      "expo-dev-client"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d5aedaab-2354-4c14-899e-e05400180782"
+      }
+    },
+    "owner": "dbailey1564"
   }
 }
