@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Dublin",
+    "slug": "dublin",
+    "scheme": "dublin",
+    "version": "0.4.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0F172A"
+    },
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.yourname.dublin" },
+    "android": { "package": "com.yourname.dublin", "permissions": [] },
+    "plugins": [],
+    "extra": { "eas": { "projectId": "00000000-0000-0000-0000-000000000000" } }
+  }
+}
