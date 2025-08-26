@@ -12,15 +12,15 @@
   },
   "dependencies": {
     "expo": "51.0.0",
+    "expo-dev-client": "^3.3.12",
+    "expo-router": "^3.5.8",
     "react": "18.2.0",
     "react-native": "0.74.1",
-    "expo-router": "^3.5.8",
-    "zustand": "^4.5.2",
-    "expo-dev-client": "^3.3.9"
+    "zustand": "^4.5.2"
   },
   "devDependencies": {
-    "typescript": "^5.4.0",
     "@types/react": "^18.2.21",
-    "@types/react-native": "^0.73.0"
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.4.0"
   }
 }
